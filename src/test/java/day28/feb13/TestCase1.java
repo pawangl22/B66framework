@@ -1,4 +1,4 @@
-package scripts;
+package day28.feb13;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
